@@ -1,0 +1,229 @@
+{
+  "profile": {
+    "name": "Jesynta Harya",
+    "title": "Full-Stack Developer & Designer",
+    "bio": "I craft beautiful digital experiences that blend elegant code with stunning visuals. Passionate about building products that make a difference.",
+    "email": "Jesyntaivolairya@gmail.com",
+    "github": "https://github.com/Jessyharya05",
+    "linkedin": "https://www.linkedin.com/in/jesynta-haria-5a5969314/",
+    "location": "Kec. Cikarang Utara, Jawa Barat",
+    "available": true,
+    "gpa": "3.71",
+    "education_degree": "B.Sc. in Information Technology",
+    "education_school": "President University"
+  },
+  "stats": [
+    {
+      "label": "Projects Built",
+      "value": "5",
+      "icon": "🚀"
+    },
+    {
+      "label": "Years Experience",
+      "value": "1",
+      "icon": "⚡"
+    },
+    {
+      "label": "Matcha Cups",
+      "value": "∞",
+      "icon": "🍵"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python",
+      "level": 78,
+      "category": "Backend"
+    },
+    {
+      "name": "JavaScript",
+      "level": 90,
+      "category": "Frontend"
+    },
+    {
+      "name": "React",
+      "level": 85,
+      "category": "Frontend"
+    },
+    {
+      "name": "Flask / FastAPI",
+      "level": 92,
+      "category": "Backend"
+    },
+    {
+      "name": "PostgreSQL",
+      "level": 80,
+      "category": "Database"
+    },
+    {
+      "name": "Docker",
+      "level": 75,
+      "category": "DevOps"
+    },
+    {
+      "name": "CSS / Tailwind",
+      "level": 88,
+      "category": "Frontend"
+    },
+    {
+      "name": "Machine Learning",
+      "level": 70,
+      "category": "AI"
+    },
+    {
+      "name": "Communication",
+      "level": 92,
+      "category": "Soft Skills"
+    },
+    {
+      "name": "Team Collaboration",
+      "level": 95,
+      "category": "Soft Skills"
+    },
+    {
+      "name": "Public Speaking",
+      "level": 88,
+      "category": "Soft Skills"
+    },
+    {
+      "name": "Mental Health Advocacy",
+      "level": 90,
+      "category": "Soft Skills"
+    },
+    {
+      "name": "Problem Solving",
+      "level": 85,
+      "category": "Soft Skills"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "IT Audit Management System",
+      "description": "Built a web application that helps auditors, auditees, and companies assess risks, manage audit evidence, and generate reports. The system classifies risks into High, Medium, and Low categories and incorporates an AI assistant that enables users to query and analyze audit reports for faster and more informed decision-making.",
+      "tech": [
+        "Python",
+        "FastAPI",
+        "React",
+        "PostgreSQL",
+        "OpenAI"
+      ],
+      "category": "AI",
+      "color": "#7c3aed",
+      "year": 2025,
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "Secure File Sharing System ",
+      "description": "End-to-end data pipeline and visualization dashboard for e-commerce metrics. Processes 10M+ records daily with sub-second query times.",
+      "tech": [
+        "Python",
+        "Pandas",
+        "D3.js",
+        "PostgreSQL",
+        "Redis"
+      ],
+      "category": "Data",
+      "color": "#0ea5e9",
+      "emoji": "📊",
+      "year": 2024,
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "Orbit UI Library",
+      "description": "A premium React component library with 80+ accessible, animated components. Used by 500+ developers worldwide.",
+      "tech": [
+        "TypeScript",
+        "React",
+        "Storybook",
+        "Figma"
+      ],
+      "category": "Frontend",
+      "color": "#f59e0b",
+      "emoji": "🎨",
+      "year": 2023,
+      "featured": true
+    },
+    {
+      "id": 4,
+      "title": "CloudSync API",
+      "description": "Multi-cloud file synchronization REST API supporting AWS, GCP, and Azure. Handles concurrent uploads with conflict resolution.",
+      "tech": [
+        "Python",
+        "Flask",
+        "AWS S3",
+        "Celery",
+        "Docker"
+      ],
+      "category": "Backend",
+      "color": "#10b981",
+      "emoji": "☁️",
+      "year": 2023,
+      "featured": false
+    },
+    {
+      "id": 5,
+      "title": "TaskFlow Pro",
+      "description": "Project management tool with AI-powered task prioritization, time tracking, and team collaboration features.",
+      "tech": [
+        "Python",
+        "React",
+        "MongoDB",
+        "Socket.io"
+      ],
+      "category": "SaaS",
+      "color": "#ef4444",
+      "emoji": "✅",
+      "year": 2022,
+      "featured": false
+    },
+    {
+      "id": 6,
+      "title": "CryptoTracker Live",
+      "description": "Real-time cryptocurrency portfolio tracker with price alerts, technical analysis charts, and portfolio analytics.",
+      "tech": [
+        "Python",
+        "FastAPI",
+        "Vue.js",
+        "WebSocket",
+        "Chart.js"
+      ],
+      "category": "Finance",
+      "color": "#8b5cf6",
+      "emoji": "💎",
+      "year": 2022,
+      "featured": false
+    }
+  ],
+  "timeline": [
+    {
+      "year": "2025",
+      "title": "Mental Health Brand Ambassador",
+      "description": "Joined as a brand ambassador, helping raise awareness, organize student wellness activities, and foster support.",
+      "type": "achievement"
+    },
+    {
+      "year": "2025",
+      "title": "Built IT Audit Management System",
+      "description": "Developed a full-stack risk assessment tool with FastAPI, React, PostgreSQL, and an AI report analyzer assistant.",
+      "type": "work"
+    },
+    {
+      "year": "2024 - Present",
+      "title": "B.Sc. in Information Technology",
+      "description": "Studying at President University. Actively participating in software projects and coding challenges.",
+      "type": "education"
+    }
+  ],
+  "messages": [
+    {
+      "id": 1,
+      "name": "Rya",
+      "email": "ryaedwardbro@gmail.com",
+      "message": "udsvcyuws",
+      "timestamp": "2026-06-16T09:48:42.388127Z"
+    }
+  ]
+}
